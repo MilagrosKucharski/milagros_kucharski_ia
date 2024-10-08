@@ -5,7 +5,7 @@ import Section from '../components/section';
 import Footer from '../components/footer';
 import { motion } from 'framer-motion'; 
 import '../styles/custom.css';
-import missingValues1 from '../images/missing_values_1.png';
+import missingValues1 from '/public/images/missing_values_1.png';
 /*import missingValues1 from '../../public/images/missing_values_1.png';
 import missingValues2 from '../../public/images/missing_values_2.png';
 import missingValues3 from '../../public/images/missing_values_3.png';
